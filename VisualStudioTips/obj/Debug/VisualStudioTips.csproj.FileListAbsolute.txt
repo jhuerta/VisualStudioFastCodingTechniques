@@ -1,7 +1,0 @@
-C:\Projects\VisualStudioTips\VisualStudioTips\bin\Debug\VisualStudioTips.exe.config
-Z:\Documents\Trainings\VisualStudioFastCodingTechniques\VisualStudioTips\bin\Debug\VisualStudioTips.exe.config
-Z:\Documents\Trainings\VisualStudioFastCodingTechniques\VisualStudioTips\bin\Debug\VisualStudioTips.exe
-Z:\Documents\Trainings\VisualStudioFastCodingTechniques\VisualStudioTips\bin\Debug\VisualStudioTips.pdb
-Z:\Documents\Trainings\VisualStudioFastCodingTechniques\VisualStudioTips\obj\Debug\VisualStudioTips.csprojResolveAssemblyReference.cache
-Z:\Documents\Trainings\VisualStudioFastCodingTechniques\VisualStudioTips\obj\Debug\VisualStudioTips.exe
-Z:\Documents\Trainings\VisualStudioFastCodingTechniques\VisualStudioTips\obj\Debug\VisualStudioTips.pdb
