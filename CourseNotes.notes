@@ -1,1 +1,66 @@
-aaa
+!VERY IMPORTANT!
+#Subtitle# 
+*hightlightthree*
+"highlightone"
+`highlighttwo`
+// Comment
+--- TITLE ---
+-----------------------------------------------------------
+------------------------------------------------------------
+--> => <== <--
+http://www.anyurl.com
+[js][end] [html][end] [c#][end]
+
+--- MEMORIZING TECHNIQUES ---
+    - Just use the shorcuts :D
+--- SHORTCUTS ---
+    CTRL+L: Delete the line
+    CTRL+delete / CTRL+backspace: Delete the entire word
+    CTRL+K+C / CTRL+K+U: Comment, uncomment
+    CTRL+W+B: See all bokmaarks
+    CTRL+K+K Leave Bookark
+    CTRL+M+M: Collapse groups ((, {}))
+    CTRL+(SHIFT)+TAB: To switch between tabs
+    CTRL+F6 / CTRL+SHIFT+F6: To move among saved bookmarks
+    CTRL+TAB/CTRL+SHIFT+TAB: To move among saved bookmarks
+    CTRL+F4: Close current tab
+    ALT+W+L: Close all tabs
+    CTRL+, : Recent Files
+    CTRL+N: GO anywhere (resharper)
+    CTRL+SHIFT+N: Go to file (resharper)
+    SHIFT+ALT+ENTER: Zen mode screen (no distractions)
+    After searching (ctrl+f), you can move through the occurances with F3 (or shift+F)
+    CTRL+F, CTRL+SHIFT+F : For search, advance search
+    CTRL+H, CTRL+SHIFT+H: For replace (alt+a to replace all, or F3 to search, and alt+r to replace)
+
+--- SHORTCUTS DEBUGING AND COPILING ---
+    Debug mode only for debugging (F5)
+    For just run, use CTRL+F5 (or CTRL+SHIFT+F5 to restart a debugging session)
+    F9 to insert or remove the breakpoint
+    Step over: F10
+    Step into: F11 (shift+F11 to step out)
+    F5: Continue until next breakpoint
+    CTRL+SHIFT+B: Build the applicatio, without running it
+    F8 to move the cycle through error in the compiling window
+
+--- CODE SNIPPETS ---
+    ctor : constructor
+    prop: Property
+    propfull: property with custom getter and setter
+    try: try catch block
+    for: for loop
+    foreach: foreach loop
+    while: while loop
+
+--- FORMATTING CODE ---
+    CTRL+K+F to format the selection
+    Install Productivty Power Tool to format on save and remove and sort on saving
+
+--- VERSION CONTROL SYSTEM ---
+    Look for shortcuts to commit, pull, push directly from VS
+    With TFS:
+        Ctrl+0+H: View Team Explorer Home
+        Ctrl+0, P: Pending changes
+        Ctrl+0,M: View my work
+        Ctrl+0, W: View work items
+        Ctrl+0,B: View Build
