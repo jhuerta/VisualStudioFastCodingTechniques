@@ -9,6 +9,11 @@ namespace VisualStudioTips
 {
     public class TextNavigationPart2
     {
+        private string adios;
+        private string adios1;
+        private string adios2;
+        private string adios3;
+        private string adios4;
         public void deleted()
         {
             for (int i = 0; i < 10; i++)
@@ -87,6 +92,9 @@ namespace VisualStudioTips
             {
                 Console.WriteLine("Hello, World");
             }
+
         }
+
+        private 
     }
 }

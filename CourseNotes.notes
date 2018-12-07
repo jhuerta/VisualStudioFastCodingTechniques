@@ -64,3 +64,17 @@ http://www.anyurl.com
         Ctrl+0,M: View my work
         Ctrl+0, W: View work items
         Ctrl+0,B: View Build
+
+--- RESHARPER TIPS ---
+        Remember the autocomplete is intelligent logic, by typing the capital letters, it will recognize the word.
+        ctrl+space to suggest a word (variable name)
+        alt+enter for refactor, suggested actions
+        ctrl+n: go to anywhere
+        ctrl+shift+n: go to file
+        shift+alt+l: locate file
+        alt+\ :Go to property or method in the class
+        alt+down or up: go to previous or next memberß
+        ctrl+w: select the current selection, and if pressed multiple times to keep selecting more per group
+        Live Templates (similar to code snippets):
+                Select the text and resharper/tools/create live templates, and user parameters for dynamic content (surround parameter with $ signsß)
+
